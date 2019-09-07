@@ -1,0 +1,1 @@
+carazu.gb is GPLv3 licensed, see https://github.com/mholtkamp/carazu
